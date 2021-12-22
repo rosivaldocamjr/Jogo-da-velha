@@ -34,7 +34,7 @@ h1 {
 .jogador::before {
     content: '';
     background: #eee;
-    width: 160px;
+    width: 170px;
     height: 2px;
     position: absolute;
     top: 68px;
